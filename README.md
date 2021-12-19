@@ -1,2 +1,2 @@
 # testfile
-print("Om Namah Shivya")
+Om Namah Shivya
